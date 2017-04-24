@@ -17,3 +17,4 @@ void gameLoop(Game* game);
 int processEvents(Game* game);
 void render(Game* game);
 void loadGame(Game* game);
+

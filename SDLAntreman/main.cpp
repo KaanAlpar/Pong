@@ -13,5 +13,6 @@ int main(int argc, char** argv)
 		"Thanks for playing.\nMade by Kaan Alpar - 2017",
 		NULL);
 
+	printf("hello");
 	return 0;
 }
