@@ -1,1 +1,2 @@
-# Pong clone made with SDL2
+# Pong 
+Written in C using SDL2
